@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "amttgroup\\logReader\\": "src"
+            "kriss\\logReader\\": "src"
         }
     }
 }
